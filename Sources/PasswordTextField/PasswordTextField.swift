@@ -3,7 +3,7 @@ import UIKit.UITextField
 public class PasswordTextField: UITextField {
     
     //MARK: Initializers
-    override init(frame: CGRect) {
+    public override init(frame: CGRect) {
         super.init(frame: frame)
         setup()
     }

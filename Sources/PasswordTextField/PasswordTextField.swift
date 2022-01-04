@@ -16,6 +16,7 @@ public class PasswordTextField: UITextField {
     //MARK: Other functions
     private func setup() {
         isSecureTextEntry = true
+        placeholder = "text_password".localized
         
         //button
         let button = UIButton(frame: CGRect(x: .zero, y: .zero, width: 30, height: 30))

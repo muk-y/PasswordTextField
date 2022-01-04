@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PasswordTextField",
+        "repositoryURL": "https://github.com/muk-y/PasswordTextField.git",
+        "state": {
+          "branch": "main",
+          "revision": "4a19161b9197218ed8550f222f6784487ec9aefb",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

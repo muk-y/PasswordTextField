@@ -1,6 +1,6 @@
 import UIKit.UITextField
 
-class PasswordTextField: UITextField {
+public class PasswordTextField: UITextField {
     
     //MARK: Initializers
     override init(frame: CGRect) {
